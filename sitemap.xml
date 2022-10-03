@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://ler6.github.io/post/9520.html</loc>
+    
+    <lastmod>2022-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ler6.github.io/manifest.json</loc>
     
     <lastmod>2022-10-01</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/16107.html</loc>
+    <loc>https://ler6.github.io/post/16107.html</loc>
     
     <lastmod>2022-09-23</lastmod>
     
@@ -21,12 +30,19 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-10-01</lastmod>
+    <loc>https://ler6.github.io/</loc>
+    <lastmod>2022-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://ler6.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

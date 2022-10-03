@@ -3,11 +3,11 @@
   <title>Ler&#39;Blog</title>
   
   <subtitle>Only constant learning can be more powerful!</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ler6.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-09-23T03:46:25.321Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://ler6.github.io/"/>
+  <updated>2022-10-03T05:17:37.956Z</updated>
+  <id>https://ler6.github.io/</id>
   
   <author>
     <name>Ler</name>
@@ -17,9 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>阳光不慢</title>
+    <link href="https://ler6.github.io/post/9520.html"/>
+    <id>https://ler6.github.io/post/9520.html</id>
+    <published>2022-10-03T05:03:40.000Z</published>
+    <updated>2022-10-03T05:17:37.956Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>一生的时间很短<br>短到不过是两颗心之间的距离<br>一声的时间也很长<br>不如我们试着走走看</p></blockquote><div class="tip "><p>default</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt;短到不过是两颗心之间的距离&lt;br&gt;一声的时间也很长&lt;br&gt;不如我们试着走走看&lt;/p&gt;
+&lt;/b</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://ler6.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/post/16107.html"/>
-    <id>http://example.com/post/16107.html</id>
+    <link href="https://ler6.github.io/post/16107.html"/>
+    <id>https://ler6.github.io/post/16107.html</id>
     <published>2022-09-22T16:58:41.620Z</published>
     <updated>2022-09-23T03:46:25.321Z</updated>
     
